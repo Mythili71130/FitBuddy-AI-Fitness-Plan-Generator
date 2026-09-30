@@ -1,5 +1,21 @@
-# 01 Brainstorming Ideation
+**AI-ML-and-GEN-AI-Track-Project-Template**
 
-Brainstorming and ideation materials for FitBuddy.
+**Repository Structure**
 
-Add your phase-specific screenshots, reports, test evidence, or presentation files here before submitting to GitHub.
+1.Brainstorming & Ideation
+
+2.Requirement Analysis
+
+3.Project Design Phase
+
+4.Project Planning Phase
+
+5.Project Development Phase
+
+6.Project Testing
+
+7.Project Documentation
+
+8.Project Demonstration
+
+Replace the placeholder files with your team's project deliverables.
